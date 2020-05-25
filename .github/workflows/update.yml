@@ -1,0 +1,24 @@
+# /.github/workflows/daily.yml
+on:
+  schedule:
+    - cron:  '0 */2 * * *' # every second hour
+name: Pull Data and Build
+jobs:
+  build:
+    name: Update data
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - uses: actions/checkout@master
+    - name: Build
+      run: pip install -r "requirements.txt"
+    - name: Update
+      run: python main.py 
+      env:
+        API_key: ${{ secrets.API_key }}
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
