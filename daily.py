@@ -7,7 +7,7 @@ from os import environ, stat, path, access, R_OK, mkdir
 if environ.get('API_key') is None:
     from creds import API_key
 
-fields = ["time", "windspeed", "humidity", "temperature", "status"]
+fields = ["date", "windspeed", "humidity", "temperature", "status"]
 
 now = datetime.now()
 
