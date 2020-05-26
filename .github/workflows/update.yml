@@ -1,7 +1,7 @@
 # /.github/workflows/daily.yml
 on:
   schedule:
-    - cron:  '0 */2 * * *' # every second hour
+    - cron:  '*/15 * * * *' # every fifteen minuntes
 name: Pull Data and Build
 jobs:
   build:
