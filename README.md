@@ -5,4 +5,4 @@ It updates its data every two hours from the [Open Weather API](https://openweat
 
 Status: 
 
-![Daily update](https://github.com/filiptronicek/czech-weather/workflows/Pull%20Data%20and%20Build/badge.svg)
+![Save fifteen minute weather](https://github.com/filiptronicek/czech-weather/workflows/Save%20fifteen%20minute%20weather/badge.svg)
