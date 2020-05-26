@@ -1,7 +1,7 @@
 # /.github/workflows/daily.yml
 on:
   schedule:
-    - cron:  '*/15 * * * *' # every fifteen minuntes
+    - cron:  '*/30 * * * *' # every thirty minuntes
 name: Save fifteen minute weather
 jobs:
   build:
