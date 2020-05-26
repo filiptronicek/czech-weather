@@ -2,7 +2,7 @@
 on:
   schedule:
     - cron:  '*/15 * * * *' # every fifteen minuntes
-name: Pull Data and Build
+name: Save fifteen minute weather
 jobs:
   build:
     name: Update data
