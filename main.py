@@ -4,11 +4,11 @@ from datetime import datetime
 
 from os import environ, stat, path, access, R_OK, mkdir
 
-if environ.get('API_key') is None:
+API_key = environ.get('API_key')
+
+if API_key is None:
     from creds import API_key
-else:
-    API_key = environ.get('API_key')
-    
+
 fields = ["time", "windspeed", "humidity", "temperature", "status"]
 
 now = datetime.now()
