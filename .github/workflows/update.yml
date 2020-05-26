@@ -2,7 +2,7 @@
 on:
   schedule:
     - cron:  '*/30 * * * *' # every thirty minuntes
-name: Save fifteen minute weather
+name: Save thirty minute weather
 jobs:
   build:
     name: Update data
