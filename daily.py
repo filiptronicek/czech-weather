@@ -45,6 +45,12 @@ def getWeatherInfo(city: str):
     snow = w.get_snow()
     clouds = w.get_clouds()
 
+    def checkFor(objct):
+        if len(objct) == 0:
+            return 0
+        else:
+            return objct
+
     return [now.strftime("%Y.%m.%d"), wind['speed'], humidity, temp['temp'], pressure['press'], checkFor(rain), checkFor(snow), clouds, status]
 
 def createString(csvArr):
