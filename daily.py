@@ -26,7 +26,7 @@ for city in cities:
         
     if stat(filename).st_size == 0:
             WriteData = open(filename, "a")
-            WriteData.write("time, windspeed, humidity, temperature, status \n")
+            WriteData.write("time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status \n")
             WriteData.close()
 
 
@@ -40,8 +40,12 @@ def getWeatherInfo(city: str):
     humidity = w.get_humidity()
     temp = w.get_temperature('celsius')
     status = w.get_status().lower()
+    pressure = w.get_pressure()
+    rain = w.get_rain()
+    snow = w.get_snow()
+    clouds = w.get_clouds()
 
-    return [now.strftime("%Y.%m.%d"), wind['speed'], humidity, temp['temp'], status]
+    return [now.strftime("%Y.%m.%d"), wind['speed'], humidity, temp['temp'], pressure['press'], checkFor(rain), checkFor(snow), clouds, status]
 
 def createString(csvArr):
     fnlStr = ""
