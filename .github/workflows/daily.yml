@@ -2,7 +2,7 @@
 on:
   schedule:
     - cron:  '0 12 * * *' # every second hour
-name: Pull Data and Build
+name: Daily update
 jobs:
   build:
     name: Update data daily
