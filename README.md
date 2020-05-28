@@ -7,5 +7,9 @@ Status:
 
 ![Save fifteen minute weather](https://github.com/filiptronicek/czech-weather/workflows/Save%20fifteen%20minute%20weather/badge.svg)
 
+
+![Daily update](https://github.com/filiptronicek/czech-weather/workflows/Pull%20Data%20and%20Build/badge.svg)
+
+
 Todo:
 - [ ] Charts with matplotlib
