@@ -51,7 +51,7 @@ def getWeatherInfo(city: str):
         else:
             return objct
 
-    return [now.strftime("%H:%M"), wind['speed'], humidity, temp['temp'], pressure['press'], checkFor(rain), checkFor(snow), clouds, status]
+    return [now.strftime("%H:%M"), wind['speed'], humidity, temp['temp'], pressure['press'], checkFor(rain[list(rain)[0]]), checkFor(snow[list(snow)[0]]), clouds, status]
 
 def createString(csvArr):
     fnlStr = ""
