@@ -9,5 +9,7 @@ Status:
 
 
 ![Daily update](https://github.com/filiptronicek/czech-weather/workflows/Pull%20Data%20and%20Build/badge.svg)
+
+
 Todo:
 - [ ] Charts with matplotlib
