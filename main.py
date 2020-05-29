@@ -49,9 +49,9 @@ def getWeatherInfo(city: str):
         if len(objct) == 0:
             return 0
         else:
-            return objct
+            return objct[list(objct)[0]]
 
-    return [now.strftime("%H:%M"), wind['speed'], humidity, temp['temp'], pressure['press'], checkFor(rain[list(rain)[0]]), checkFor(snow[list(snow)[0]]), clouds, status]
+    return [now.strftime("%H:%M"), wind['speed'], humidity, temp['temp'], pressure['press'], checkFor(rain), checkFor(snow), clouds, status]
 
 def createString(csvArr):
     fnlStr = ""
