@@ -40,11 +40,11 @@ def getWeatherInfo(city: str):
     wind = w.wind()
     humidity = w.humidity
     temp = w.temperature('celsius')
-    status = w.status().lower()
-    pressure = w.pressure()
-    rain = w.rain()
-    snow = w.snow()
-    clouds = w.clouds()
+    status = w.status.lower()
+    pressure = w.pressure
+    rain = w.rain
+    snow = w.snow
+    clouds = w.clouds
 
     def checkFor(objct):
         if len(objct) == 0:
