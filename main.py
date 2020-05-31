@@ -34,7 +34,7 @@ def getWeatherInfo(city: str):
     owm = OWM(API_key)
     mgr = owm.weather_manager()
     obs = mgr.weather_at_place(city+',CZ')
-    w = obs.get_weather()
+    w = obs.weather()
 
     # Weather details
     wind = w.get_wind()
