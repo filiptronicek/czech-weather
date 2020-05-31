@@ -34,17 +34,17 @@ def getWeatherInfo(city: str):
     owm = OWM(API_key)
     mgr = owm.weather_manager()
     obs = mgr.weather_at_place(city+',CZ')
-    w = obs.weather()
+    w = obs.weather
 
     # Weather details
-    wind = w.get_wind()
-    humidity = w.get_humidity()
-    temp = w.get_temperature('celsius')
-    status = w.get_status().lower()
-    pressure = w.get_pressure()
-    rain = w.get_rain()
-    snow = w.get_snow()
-    clouds = w.get_clouds()
+    wind = w.wind()
+    humidity = w.humidity
+    temp = w.temperature('celsius')
+    status = w.status().lower()
+    pressure = w.pressure()
+    rain = w.rain()
+    snow = w.snow()
+    clouds = w.clouds()
 
     def checkFor(objct):
         if len(objct) == 0:
