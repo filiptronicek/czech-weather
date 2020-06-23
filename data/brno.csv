@@ -28,3 +28,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.06.20,5.1,87,15.68,1013,{'1h': 0.25},0,20,rain
 2020.06.21,3.6,88,17.0,1015,0,0,75,clouds
 2020.06.22,5.1,53,21.8,1019,0,0,40,clouds
+2020.06.23,5.7,43,22.22,1022,0,0,0,clear
