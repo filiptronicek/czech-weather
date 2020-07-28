@@ -63,3 +63,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.07.25,2.24,71,22.87,1016,{'1h': 0.4},0,64,rain
 2020.07.26,5.06,61,24.81,1018,{'1h': 0.69},0,76,rain
 2020.07.27,0.27,58,23.37,1016,0,0,0,clear
+2020.07.28,5.51,63,28.14,1015,0,0,15,clouds
