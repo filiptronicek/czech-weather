@@ -82,3 +82,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.08.13,0.45,50,27.95,1018,0,0,24,clouds
 2020.08.14,7.7,69,26.24,1014,0,0,40,thunderstorm
 2020.08.15,1.67,82,24.27,1013,{'1h': 1.76},0,100,rain
+2020.08.16,0.89,58,23.96,1013,{'1h': 0.4},0,1,rain
