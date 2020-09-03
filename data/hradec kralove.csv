@@ -100,3 +100,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.08.31,1.79,92,16.61,1016,0,0,99,clouds
 2020.09.01,1.79,97,13.32,1012,{'1h': 2.37},0,100,rain
 2020.09.02,2.24,57,19.14,1016,0,0,87,clouds
+2020.09.03,2.6,45,20.57,1022,0,0,40,clouds
