@@ -140,3 +140,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.10.10,2.6,81,8.93,1019,{'1h': 0.4},0,90,rain
 2020.10.11,2.6,75,7.39,1018,0,0,75,clouds
 2020.10.12,3.1,81,7.51,1017,0,0,40,clouds
+2020.10.13,2.1,70,7.17,1012,0,0,75,clouds
