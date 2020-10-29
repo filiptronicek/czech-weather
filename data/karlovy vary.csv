@@ -156,3 +156,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.10.26,1.5,100,8.3,1003,0,0,90,drizzle
 2020.10.27,2.6,75,7.53,1011,0,0,40,clouds
 2020.10.28,2.74,88,6.31,1013,{'1h': 0.13},0,100,rain
+2020.10.29,3.6,93,6.16,1016,0,0,40,clouds
