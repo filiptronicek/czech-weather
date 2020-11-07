@@ -165,3 +165,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.11.04,1.5,76,10.95,1029,0,0,90,clouds
 2020.11.05,1,75,9.2,1037,0,0,0,clear
 2020.11.06,0.5,48,4.25,1035,0,0,0,fog
+2020.11.07,1,49,4.13,1029,0,0,0,mist
