@@ -12,3 +12,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 05:32,1.5,85,2.36,1029,0,0,0,clear
 06:08,0.5,80,2.62,1029,0,0,0,clear
 06:34,1.39,80,2.88,1029,0,0,0,clear
+07:11,1,80,3.12,1029,0,0,100,clouds
