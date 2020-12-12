@@ -200,3 +200,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2020.12.09,4.6,75,5.91,1009,0,0,75,clouds
 2020.12.10,2.1,77,0.13,1005,0,{'1h': 0.2},90,snow
 2020.12.11,4.6,93,2.37,1004,0,0,90,clouds
+2020.12.12,4.1,100,2.04,1002,0,0,90,clouds
