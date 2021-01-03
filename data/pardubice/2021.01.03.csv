@@ -21,3 +21,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 14:14,1,93,4.15,1010,0,0,90,drizzle
 14:45,1.5,93,3.81,1010,0,0,90,drizzle
 15:12,1.5,100,3.75,1010,0,0,90,drizzle
+15:51,1,100,3.42,1010,0,0,90,mist
