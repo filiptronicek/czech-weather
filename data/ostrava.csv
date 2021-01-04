@@ -223,3 +223,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2021.01.01,6.7,100,1.36,1009,0,0,90,mist
 2021.01.02,1,93,2.85,1013,0,0,20,mist
 2021.01.03,1.5,81,5.89,1010,0,0,20,mist
+2021.01.04,1.5,93,5.0,1013,0,0,90,fog
