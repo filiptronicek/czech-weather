@@ -20,3 +20,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 10:11,2.57,93,1.99,1034,0,0,75,fog
 10:40,2.57,100,2.03,1035,0,0,20,fog
 11:09,3.09,100,2.37,1035,0,0,90,fog
+11:36,3.09,93,2.71,1035,0,0,90,mist
