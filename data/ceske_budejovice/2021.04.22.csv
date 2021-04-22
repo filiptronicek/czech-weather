@@ -18,3 +18,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 08:03,3.59,89,4.22,1013,0,0,100,clouds
 08:39,3.3,90,4.13,1013,1.33,0,100,rain
 09:03,3.3,90,3.79,1014,0,0,100,clouds
+09:38,0.45,87,3.79,1014,0,0,100,clouds
