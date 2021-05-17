@@ -355,3 +355,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2021.05.13,2.4,95,17.09,1000,{'1h': 0.1},0,90,clouds
 2021.05.14,5.14,100,10.86,1006,0,0,90,mist
 2021.05.15,1.54,45,18.2,1009,0,0,40,clouds
+2021.05.17,1.03,94,11.21,1004,{'1h': 3.35},0,20,rain
