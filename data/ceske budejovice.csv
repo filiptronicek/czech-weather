@@ -365,3 +365,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2021.05.24,3.77,55,17.43,1009,{'1h': 0.21},0,74,rain
 2021.05.25,1.79,58,12.12,1012,0,0,100,clouds
 2021.05.26,4.92,37,16.72,1009,0,0,100,clouds
+2021.05.27,4.37,51,14.2,1012,0,0,100,clouds
