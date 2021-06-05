@@ -374,3 +374,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2021.06.02,3.27,54,22.73,1020,0,0,26,clouds
 2021.06.03,1.05,41,23.5,1024,0,0,6,clear
 2021.06.04,1.5,36,26.71,1022,0,0,91,clouds
+2021.06.05,2.06,61,25.68,1017,{'1h': 0.71},0,30,rain
