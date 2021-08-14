@@ -444,3 +444,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2021.08.11,4.12,64,24.43,1019,{'1h': 0.28},0,20,rain
 2021.08.12,2.57,50,23.71,1023,0,0,0,clear
 2021.08.13,2.57,54,27.0,1023,0,0,0,clear
+2021.08.14,7.72,51,28.8,1019,0,0,0,clear
