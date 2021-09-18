@@ -479,3 +479,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2021.09.15,2.21,58,23.73,1014,{'1h': 0.6},0,100,rain
 2021.09.16,1.97,83,18.32,1014,0,0,99,clouds
 2021.09.17,3.6,78,16.12,1014,0,0,96,clouds
+2021.09.18,4.96,68,14.67,1015,0,0,60,clouds
