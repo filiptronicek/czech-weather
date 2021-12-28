@@ -579,3 +579,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2021.12.25,1.79,83,-0.84,1007,0,{'1h': 0.84},100,snow
 2021.12.26,1.14,74,-2.91,1013,0,0,96,clouds
 2021.12.27,0.38,81,-0.21,1009,0,0,100,clouds
+2021.12.28,0.45,82,2.44,1006,0,0,100,clouds
