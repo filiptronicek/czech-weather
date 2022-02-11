@@ -624,3 +624,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2022.02.08,7.73,94,3.19,1027,{'1h': 0.27},0,91,rain
 2022.02.09,5.82,72,5.57,1028,0,0,25,clouds
 2022.02.10,4.28,61,9.51,1021,0,0,21,clouds
+2022.02.11,7.85,83,3.45,1024,0,0,100,clouds
