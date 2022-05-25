@@ -726,3 +726,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2022.05.22,6.71,39,20.93,1013,0,0,0,clear
 2022.05.23,3.6,49,21.32,1010,0,0,0,clear
 2022.05.24,4.12,67,19.75,1008,0,0,0,clear
+2022.05.25,2.57,89,14.97,1015,{'1h': 0.22},0,75,rain
