@@ -791,3 +791,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2022.07.27,5.14,56,23.37,1016,0,0,20,clouds
 2022.07.28,4.63,47,24.18,1018,0,0,0,clear
 2022.07.29,5.14,53,25.84,1017,0,0,0,clear
+2022.07.30,5.14,100,19.11,1013,{'1h': 0.86},0,100,rain
