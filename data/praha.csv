@@ -866,3 +866,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2022.10.13,1.54,70,16.81,1018,0,0,75,clouds
 2022.10.14,4.63,81,16.12,1014,0,0,75,clouds
 2022.10.15,2.68,93,15.74,1009,{'1h': 0.18},0,99,rain
+2022.10.16,4.12,77,21.66,1017,0,0,20,clouds
