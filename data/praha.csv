@@ -897,3 +897,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2022.11.13,3.09,100,4.03,1028,0,0,100,fog
 2022.11.14,3.6,78,11.5,1018,0,0,20,clouds
 2022.11.15,1.03,100,4.03,1014,0,0,100,fog
+2022.11.16,0.45,95,6.65,1003,{'1h': 0.32},0,100,drizzle
