@@ -938,3 +938,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2022.12.21,8.23,86,1.43,1017,0,{'1h': 0.34},20,snow
 2022.12.22,6.17,93,2.74,1010,0,0,81,mist
 2022.12.23,3.6,100,4.64,1008,0,0,75,mist
+2022.12.24,5.66,76,9.63,1012,0,0,20,clouds
