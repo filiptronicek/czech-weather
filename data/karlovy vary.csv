@@ -1000,3 +1000,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2023.02.22,2.68,64,12.62,1014,0,0,40,clouds
 2023.02.23,1.03,78,9.86,1013,0,0,75,clouds
 2023.02.24,4.63,67,7.99,1002,0,0,75,clouds
+2023.02.26,4.12,70,-0.28,1016,0,{'1h': 0.13},100,snow
