@@ -38,3 +38,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 18:03,9.77,77,11.83,1008,9.99,0,75,squall
 18:32,8.05,84,9.81,1008,0.8,0,75,thunderstorm
 19:03,6.69,88,9.12,1007,0.61,0,75,thunderstorm
+19:32,6.17,88,9.03,1007,0,0,75,clouds
