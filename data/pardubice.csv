@@ -1147,3 +1147,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2023.07.24,7.72,33,29.35,1006,{'1h': 0.2},0,40,rain
 2023.07.25,3.13,62,23.11,1004,0,0,40,clouds
 2023.07.26,7.72,57,20.0,1011,0,0,75,clouds
+2023.07.27,4.47,52,22.86,1012,0,0,0,clear
