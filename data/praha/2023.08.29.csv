@@ -19,3 +19,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 09:02,4.63,95,13.03,1007,0,0,100,drizzle
 09:32,4.12,95,13.22,1007,0,0,100,drizzle
 10:02,3.6,94,13.5,1007,0,0,100,drizzle
+10:32,4.12,93,13.82,1007,0,0,100,rain
