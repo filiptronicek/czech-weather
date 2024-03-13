@@ -1372,3 +1372,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2024.03.10,9.12,74,13.04,1003,0,0,97,clouds
 2024.03.11,3.3,79,13.02,1006,0,0,100,clouds
 2024.03.12,5.21,100,8.8,1011,{'1h': 0.15},0,100,rain
+2024.03.13,3.02,70,12.32,1017,0,0,98,clouds
