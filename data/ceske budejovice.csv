@@ -1736,3 +1736,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2025.03.10,0.89,38,16.38,999,0,0,43,clouds
 2025.03.11,3.58,48,15.13,1001,0,0,41,clouds
 2025.03.12,2.68,76,10.27,995,{'1h': 0.12},0,92,rain
+2025.03.13,3.58,86,4.16,996,0,0,100,clouds
