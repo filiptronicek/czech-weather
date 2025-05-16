@@ -1800,3 +1800,4 @@ time, windspeed, humidity, temperature, pressure, rain, snow, clouds, status
 2025.05.13,0.65,43,16.0,1019,0,0,10,clear
 2025.05.14,5.1,39,21.0,1014,0,0,92,clouds
 2025.05.15,6.22,50,13.22,1013,0,0,86,clouds
+2025.05.16,6.34,66,9.33,1014,{'1h': 2.44},0,84,rain
